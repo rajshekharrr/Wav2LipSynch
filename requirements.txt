@@ -3,6 +3,6 @@ numpy
 opencv-contrib-python
 opencv-python
 torch
-torchvision==0.3.0
+torchvision
 tqdm
 numba
