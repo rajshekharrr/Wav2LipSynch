@@ -2,7 +2,7 @@ librosa
 numpy
 opencv-contrib-python
 opencv-python
-torch==1.1.0
-torchvision
+torch
+torchvision==0.3.0
 tqdm
 numba
